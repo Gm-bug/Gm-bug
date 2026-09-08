@@ -1,16 +1,33 @@
-## Hi there 👋
+#ola mundo
+---
+[linkedin](https://www.linkedin.com/in/gabriela-moreira-546aa2345/)
 
-<!--
-**Gm-bug/Gm-bug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+aprendendo...
 
-Here are some ideas to get you started:
+<img src="https://skillicons.dev/icons?i=html,css" height="60">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=javascript,nodejs" height="60">
+
+<img src="https://skillicons.dev/icons?i=python" height="60">
+
+<img src="https://skillicons.dev/icons?i=mysql" height="60">
+
+---
+ja sei
+
+<img src="https://skillicons.dev/icons?i=unreal" height="60">
+Experiência com Blueprints da Unreal Engine, utilizando programação visual para criação de sistemas e mecânicas.
+Eventos
+
+Variáveis
+
+Funções
+
+Condições
+
+Loops
+
+Sistemas de gameplay
+
+Interação entre objetos
