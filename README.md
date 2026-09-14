@@ -38,7 +38,6 @@ criar pagina web, desinign leve, listas, style e pequenas coisas
 ---
 <p align="center">
  <img src="https://ghchart.rshah.org/6D28D9/Gm-bug" alt="contribuições" />
- <img src="https://github.com/Gm-bug/Gm-bug/blob/main/circulo.webp"/>
 </p>
 
 </body>
