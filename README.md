@@ -1,5 +1,7 @@
 <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Ola%2C+eu+sou+Dev;Construindo+no+escuro;Commit+por+commit" /> </h1>
+
 ---
+
 [linkedin](https://www.linkedin.com/in/gabriela-moreira-546aa2345/)
 
 ---
