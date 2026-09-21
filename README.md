@@ -16,8 +16,10 @@
     </h1>
     <img src="https://skillicons.dev/icons?i=javascript,nodejs" height="500">
     <br>
-    <img src="https://skillicons.dev/icons?i=python" height="150">
+    <img src="https://skillicons.dev/icons?i=python" height="500">
     <hr>
+    <img src="https://skillicons.dev/icons?i=vscode" height="150" width="150">
+    <img src="https://skillicons.dev/icons?i=windows" height="150" width="150">
   </td>
 
   <td width="50%" valign="top">
