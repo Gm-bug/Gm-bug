@@ -18,8 +18,9 @@
     <br>
     <img src="https://skillicons.dev/icons?i=python" height="500">
     <hr>
-    <img src="https://skillicons.dev/icons?i=vscode" height="150" width="150">
-    <img src="https://skillicons.dev/icons?i=windows" height="150" width="150">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3200&pause=900&color=008000&center=true&vCenter=true&width=620&lines=ferramentas" /> 
+    <img src="https://skillicons.dev/icons?i=vscode" height="100" width="100">
+    <img src="https://skillicons.dev/icons?i=windows" height="100" width="100">
   </td>
 
   <td width="50%" valign="top">
