@@ -3,6 +3,7 @@
 </h1>
 
 ---
+<img src="https://skillicons.dev/icons?i=linkedin" height="100" width="100">
 
 [linkedin](https://www.linkedin.com/in/gabriela-moreira-546aa2345/)
 
